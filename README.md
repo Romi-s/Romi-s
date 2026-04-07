@@ -2,7 +2,7 @@
 
 Robotics, AI & Machine Learning Specialist — currently completing an M.Sc. in Automation & Control Engineering at Politecnico di Milano.
 
-- 🔭 **Thesis (in progress):** Semantic characterization of robotic environments
+- 🔭 **Thesis:** Semantic characterization of robotic environments
 - 🤖 **Focus:** Robotic vision, open‑vocabulary detection, data‑driven control
 - 🧪 **Toolbox:** Python (NumPy, SciPy, pandas, scikit‑learn), PyTorch, TensorFlow/Keras, MATLAB/Simulink, SQL, Git, Linux, FastAPI, LaTeX
 - 🌱 **Learning:** Data‑Driven Control Systems Design, Control of Industrial Robots
