@@ -47,5 +47,6 @@ Currently seeking entry-level / internship roles in **ML Engineering**, **Comput
 |---|---|---|
 | [Time-Series-Forecasting](https://github.com/Romi-s/Time-Series-Forecasting) | LSTM walk-forward forecasting for real-time control systems | PyTorch · pandas · NumPy |
 | [Plant-Leaf-Health-Classification](https://github.com/Romi-s/Plant-Leaf-Health-Classification) | CNN pipeline for plant disease detection with data augmentation | PyTorch · OpenCV |
+| [Visual-QA-Agent](https://github.com/Romi-s/Visual-QA-Agent) | | |
 
 *Thesis code is maintained under the MERLIN Lab, Politecnico di Milano.*
