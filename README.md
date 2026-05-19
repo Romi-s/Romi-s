@@ -45,8 +45,9 @@ Currently seeking entry-level / internship roles in **ML Engineering**, **Comput
 
 | Repository | Description | Stack |
 |---|---|---|
-| [Time-Series-Forecasting](https://github.com/Romi-s/Time-Series-Forecasting) | LSTM walk-forward forecasting for real-time control systems | PyTorch · pandas · NumPy |
-| [Plant-Leaf-Health-Classification](https://github.com/Romi-s/Plant-Leaf-Health-Classification) | CNN pipeline for plant disease detection with data augmentation | PyTorch · OpenCV |
-| [Visual-QA-Agent](https://github.com/Romi-s/Visual-QA-Agent) | Agentic backend answering visual questions about images & PDFs via a 4-node LangGraph pipeline with dual VLM support (Claude, GPT-4o) | Python · FastAPI · LangGraph . Anthropic API · OpenAI API |
+| [Compliance-RAG-Agent](https://github.com/Romi-s/Compliance-RAG-Agent) | RAG backend for regulatory document Q&A — hybrid retrieval (ChromaDB + BM25 + Reciprocal Rank Fusion), LangGraph agentic pipeline, source citations | Python · FastAPI · LangGraph · ChromaDB · OpenAI API |
+| [Visual-QA-Agent](https://github.com/Romi-s/Visual-QA-Agent) | Agentic backend answering visual questions about images & PDFs via a 4-node LangGraph pipeline with dual VLM support (Claude, GPT-4o) | Python · FastAPI · LangGraph · Anthropic API · OpenAI API |
+| [Plant-Leaf-Health-Classification](https://github.com/Romi-s/Plant-Leaf-Health-Classification) | 5-model ensemble CNN for plant disease detection with Grad-CAM explainability, FastAPI inference API, and MLflow tracking | Python · TensorFlow · FastAPI · MLflow · pytest |
+| [Time-Series-Forecasting](https://github.com/Romi-s/Time-Series-Forecasting) | Benchmarked 6+ architectures (LSTM, Conv. LSTM, Transformer) on 48K time series with autoregressive decoding | Python · TensorFlow · Keras · NumPy |
 
 *Thesis code is maintained under the MERLIN Lab, Politecnico di Milano.*
